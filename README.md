@@ -1,3 +1,3 @@
 # Chat Bot Backend
-Practice with Spring Boot
-Technologies used:
++ Practice with Spring Boot
++ Technologies used:
